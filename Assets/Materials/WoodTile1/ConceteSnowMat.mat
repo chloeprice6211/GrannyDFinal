@@ -13,7 +13,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _COVERAGE_ON
-  - _NORMALMAP
   - _SPARKLE_ON
   - _SPARKLE_TEX_LS
   - _SPARKLE_TEX_SS

@@ -247,7 +247,7 @@ public class MenuManager : MonoBehaviour
 
         if(Application.isEditor) yield return new WaitForSeconds(0.1f);
         else yield return new WaitForSeconds(1.15f);
-        //yield return new WaitForSeconds(1.15f);
+        yield return new WaitForSeconds(1.15f);
         yield return new WaitForSeconds(0.1f);
         _isChangingPointRoutineOngoing = false;
 
@@ -304,8 +304,8 @@ public class MenuManager : MonoBehaviour
                 if (isHost)
                 {
                     NetworkServer.maxConnections = 2;
-                    //CustomNetworkManager.Instance.StartHost();
-                    //SetupPanel.Instance.SetupServerCoopScreen();
+                CustomNetworkManager.Instance.StartHost();
+                    SetupPanel.Instance.SetupServerCoopScreen();
                 }
                 else
                 {
