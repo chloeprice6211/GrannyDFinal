@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12b95995bec584ebba78e45309e4bd49
+timeCreated: 1513622270
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Documentation/Realistic Glitches.txt
+  uploadId: 220969

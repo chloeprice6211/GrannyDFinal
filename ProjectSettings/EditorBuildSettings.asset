@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 72744e75fb2deb943854fb8dc897d0f1
+  - enabled: 1
+    path: Assets/Scenes/CurrentScenes/Menu.unity
+    guid: c629b04efb779f646854f9b901da1f24
+  - enabled: 1
+    path: Assets/Scenes/CurrentScenes/Hollowgate.unity
+    guid: f9cb7f4adc91c2d4c96ce87b381fe1d8
+  - enabled: 0
+    path: Assets/Scenes/CurrentScenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/CurrentScenes/LVL2.unity
+    guid: d86a9f3209d416145af62723350ea21c
+  - enabled: 0
+    path: Assets/Scenes/CurrentScenes/LVL3.unity
+    guid: 8d4c3f79223584b4e88a7e21194e18eb
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a11874fa6984c364297ce2f8488a91a4, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: a8d9c8113916607489e653bf112f32b3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 82a5cabe2e7c046459621dd6afa4a7f1, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: bb235f49fba0f894894641a8f2580536, type: 2}
+  m_UseUCBPForAssetBundles: 0

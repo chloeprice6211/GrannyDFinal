@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 042707ee3cc5949a6a1f4508e83c577e
+timeCreated: 1497351662
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Assets/Shaders/Scanner.shader
+  uploadId: 220969

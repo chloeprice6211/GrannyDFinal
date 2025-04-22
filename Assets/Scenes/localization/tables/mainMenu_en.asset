@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: mainMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fe2662314be166c468e5b5080081f0f2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2405969354894082111
+  m_TableData:
+  - m_Id: 61396959232
+    m_Localized: '{playerCap} PLAYERS'
+    m_Metadata:
+      m_Items:
+      - rid: 2405969354894082111
+  - m_Id: 144838443008
+    m_Localized: MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2555002961920
+    m_Localized: HARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633851682816
+    m_Localized: DIFFICULTY:<color={diffColor}>{difficultyLevel}</color>
+    m_Metadata:
+      m_Items:
+      - rid: 2405969354894082111
+  - m_Id: 2881571471360
+    m_Localized: NEW RELEASE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3015713701888
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3170160558080
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3383122149376
+    m_Localized: LOCATION SELECTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3483613478912
+    m_Localized: CHAPTER {chapterID}
+    m_Metadata:
+      m_Items:
+      - rid: 2405969354894082111
+  - m_Id: 214075141996544
+    m_Localized: INVITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33180380512256
+    m_Localized: REPORT A BUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35256837816320
+    m_Localized: GHOST STRENGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35471028338688
+    m_Localized: EASY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35535452848128
+    m_Localized: MODERATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213695532318720
+    m_Localized: DEMON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52506537967616
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54550497804288
+    m_Localized: You have to uncover hidden clues, solve  puzzles, and unravel the
+      haunting secrets that shroud this damned place. But be warned, an unknown creature
+      roam these halls, and their thirst for your fear grows stronger with every
+      passing minute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55519520440320
+    m_Localized: HIGHLIGHT ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210228201865216
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210365422714880
+    m_Localized: RETURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211602880806912
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215479168483328
+    m_Localized: MAX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221889256177664
+    m_Localized: SUBMIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222332321480704
+    m_Localized: enter here..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222494431330304
+    m_Localized: REPORT A BUG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226713917931520
+    m_Localized: ITEMS GUIDE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227960230199296
+    m_Localized: EXIT LOBBY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244033667153920
+    m_Localized: If enabled, all items will be highlighted which means the're easier
+      to find. For the realistic experience, turn this option off. If the game has
+      been started with this option off, after 40 minutes of gameplay you will be
+      given a choise to highlight all items (in case you're stuggling with finding
+      them).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1373962295263232
+    m_Localized: menu volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1374529923006464
+    m_Localized: MOUSE SENS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375414996647936
+    m_Localized: BRIGHTNESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375685902548992
+    m_Localized: GRAPHICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377502837293056
+    m_Localized: APPLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105794607398912
+    m_Localized: RETURN TO LOBBY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2773190225641472
+    m_Localized: SUBTITLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2773309369040896
+    m_Localized: SUBS LANG.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2774258569396224
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2776790297427968
+    m_Localized: VOICE VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2776911504424960
+    m_Localized: VOICE LANG.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8334458940506112
+    m_Localized: RETURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8337762458222592
+    m_Localized: CONCLUSION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8337868918046720
+    m_Localized: any bugs/suggestions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338082693332992
+    m_Localized: rate your experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338822954434560
+    m_Localized: enter here..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8339144842100736
+    m_Localized: Awesome! You have managed to escape the house. Stay tuned for futher
+      updates! Thank you for supporting the developer, because you're the reason
+      we make games.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8340582699843584
+    m_Localized: Unfortunately, you were not able to escape the house. But hey! You
+      can always try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8340958584979456
+    m_Localized: You have abandoned. But don't worry! You can always try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8341475272900608
+    m_Localized: You have managed to escape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8341643342856192
+    m_Localized: 'You were unable to escape. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170946195305701376
+    m_Localized: VOLUME
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969354894082111
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00408b172b03000000408b4b0e0000000040cb3d65020000

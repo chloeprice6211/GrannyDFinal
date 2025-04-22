@@ -1,0 +1,513 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: characterUiMessage_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 14665739ef79d4648899840e2d520eaa, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7214940160
+    m_Localized: Dad's phone. Might be something useful here..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65083752448
+    m_Localized: There's gotta be something useful here..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243714965504
+    m_Localized: That's gotta be garage remote. I can use it to unlock the gate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328741896192
+    m_Localized: A Flash Drive?.. Let's find out what's in it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9927654064128
+    m_Localized: We were supposed to set this wheel with my dad this weekend..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10094646083584
+    m_Localized: Oh God..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10374255165440
+    m_Localized: Thank God dad taught me how to use this thing..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10481759371264
+    m_Localized: Good thing it's still working..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10659086155776
+    m_Localized: Don't think I need another one..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801864458240
+    m_Localized: Should be the key that goes into the locker in the garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11051098390528
+    m_Localized: Pretty sure that's the key for the Garage Door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11098309476352
+    m_Localized: With this keycard I can unlock the fusebox in the garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11147366055936
+    m_Localized: A car key. At least I know how to make it move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11210037346304
+    m_Localized: Seems to be the Basement Room key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245332414464
+    m_Localized: So.. What is this key for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684056612864
+    m_Localized: Can't remember what exactly this one goes into..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11786510876672
+    m_Localized: Looks like an Auto-Injector..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891603357696
+    m_Localized: A 9V battery.. It will come in handy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12664399675392
+    m_Localized: Looks like a key to my room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13260456411136
+    m_Localized: What the..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13391641657344
+    m_Localized: I know they don't get along together, but why didn't dad tell me
+      anything?.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13601402994688
+    m_Localized: I don't remember drawing the last one..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13713197973504
+    m_Localized: What the?..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13770718658560
+    m_Localized: I'm sorry, mom..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13825387216896
+    m_Localized: Homework will have to wait.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13873105813504
+    m_Localized: A code combination or something. Gotta keep it for now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949224042496
+    m_Localized: What a great timing for them to leave..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10586566639616
+    m_Localized: No pills left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17179765063680
+    m_Localized: I was supposed to repair dad's laptop using this thing.. Lazy me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17272266244096
+    m_Localized: Computer Science.. My least favorite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376779911168
+    m_Localized: This remote should help me unlock the garage gate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17501166190592
+    m_Localized: Wow.. Now what is this key for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17769266102272
+    m_Localized: I guess this one goes into the locker in the storeroom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17844750991360
+    m_Localized: The Front Yard Entrance key. Alright!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17914745536512
+    m_Localized: Should be the car trunk key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18128898310144
+    m_Localized: Should be the Backyard Key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18219742740480
+    m_Localized: Should be the keycard dad uses to enter his office.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18673008590848
+    m_Localized: I wonder what's this code for..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18823252754432
+    m_Localized: Hmm..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19609370181632
+    m_Localized: "That should the Van key. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771507400704
+    m_Localized: The Entrance Door key! It's time to get the hell out of here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28053670150144
+    m_Localized: If only I knew how to drive..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28095420252160
+    m_Localized: I wonder what can I find here..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28702508007424
+    m_Localized: Now let's figure out how to make this thing useful.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28771059712000
+    m_Localized: 'Looks like a dad''s work note. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28885937504256
+    m_Localized: A keypad with no letters on it.. Interesting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29093186453504
+    m_Localized: Hmm..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31889919000576
+    m_Localized: I regularly see dad taking the screwdriver when going down the basement..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32049495490560
+    m_Localized: There is still some gasoline left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67594443505664
+    m_Localized: This won't work without the recovery key. I need to insert it here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67771107590144
+    m_Localized: I guess it might have unlocked something..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68252701769728
+    m_Localized: Not working..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68918472032256
+    m_Localized: The remote needs 9V battery to work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69261389938688
+    m_Localized: I have to unlock the gates first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69431141810176
+    m_Localized: Seems like the gate is out of power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69535089246208
+    m_Localized: Alright, the gates are open.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70509228933120
+    m_Localized: It has to function properly now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70846312562688
+    m_Localized: Should work just fine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70935923867648
+    m_Localized: Need to turn on the computer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71203021340672
+    m_Localized: Out of power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71687819968512
+    m_Localized: Run for the exit, HURRY!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80225489338368
+    m_Localized: I wonder how can I get this open..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80423758282752
+    m_Localized: I don't think it's gonna boot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81236907999232
+    m_Localized: I have to unlock the gates first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81348451319808
+    m_Localized: Gates won't open. I will try to break through using the car.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81562142720000
+    m_Localized: No syringe content left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81813725462528
+    m_Localized: I can open the trunk once the car will be unlocked.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81983695437824
+    m_Localized: There must be something behind the fan..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82234539982848
+    m_Localized: Garage door seems to be out of power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82514073567232
+    m_Localized: Shit, it's locked!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83041637318656
+    m_Localized: I need to insert a Key Card into the reader.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83256947720192
+    m_Localized: I need a key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83537357914112
+    m_Localized: I could use a Car Jack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83745164705792
+    m_Localized: One wheel is missing. I hope it won't be a trouble to set ut back.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83918301380608
+    m_Localized: I should tighten up the wheel a bit. There has to be a Lug Wrench
+      nearby..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84132802281472
+    m_Localized: Need to remove the Car Jack before I move on.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84230915440640
+    m_Localized: Great. No fuel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84373760851968
+    m_Localized: I won't be able to break the gate until it's unlocked.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84536394989568
+    m_Localized: Gotta try this again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84579986391040
+    m_Localized: It's working! Keep it up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84641508442112
+    m_Localized: Almost there...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84849986322432
+    m_Localized: Need to find another key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85062171967488
+    m_Localized: A keycard is needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85283182428160
+    m_Localized: Looks like it needs 2 batteries to function.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85440691126272
+    m_Localized: One to go.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85583754641408
+    m_Localized: It has to function properly now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85705523675136
+    m_Localized: Switchers are blocked. The panel says I need a phone..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85974424698880
+    m_Localized: I wonder what's inside this flash drive..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88091424145408
+    m_Localized: I should have remembered the password once and for all..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88070154829824
+    m_Localized: This should bring on the light.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89605135876096
+    m_Localized: Interesting..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90650872332288
+    m_Localized: I think I can get this open using the keypad on the right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91260363423744
+    m_Localized: There is definitely a key somewhere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91579659010048
+    m_Localized: I need to hide, hurry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91989207629824
+    m_Localized: A briefcase locked with a padlock. Great.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93313965965312
+    m_Localized: There is something in the house.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93469423648768
+    m_Localized: I need to get out as fast as I can.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93868062883840
+    m_Localized: I need to find my sister and get the hell out of here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94390673162240
+    m_Localized: I need to get out of here as fast as I can.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94354535038976
+    m_Localized: I need to find my sisters and get the hell out of here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94655879004160
+    m_Localized: I need to find my sisters and get the hell out of here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94620651044864
+    m_Localized: I need to get out of here as fast as I can.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5095055266889728
+    m_Localized: Good thing it's still working..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089311782420480
+    m_Localized: PRESS [F] TO SWITCH THE FLASHLIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089355755503616
+    m_Localized: PRESS [G] TO DROP AN ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089376093683712
+    m_Localized: PRESS [TAB] TO OPEN INVENTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9090170096402432
+    m_Localized: PRESS [Q] TO OPEN THE JOURNAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9090500959879168
+    m_Localized: PRESS [F2] TO HIGHLIGHT ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9091518862934016
+    m_Localized: HOLD [SHIFT] TO SPRINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18056357822464
+    m_Localized: Should be the bathroom key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11855658320871424
+    m_Localized: Shelf.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12268520294006784
+    m_Localized: Should be the Wi-Fi password.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12274149167415296
+    m_Localized: If only I knew what's this key for..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368779548508160
+    m_Localized: Oh God..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368805280563200
+    m_Localized: Oh God..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368817154637824
+    m_Localized: I need to hide, hurry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12370084732026880
+    m_Localized: Oh God..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13084831475515392
+    m_Localized: I wonder what's this code for..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087017282519040
+    m_Localized: Oh God..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12405980911058944
+    m_Localized: The pills mom uses to get rid of headache.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14399472851959808
+    m_Localized: Interesting..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404342066462720
+    m_Localized: A common 9V battery. I might keep it for now.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

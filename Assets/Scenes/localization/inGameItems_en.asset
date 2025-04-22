@@ -1,0 +1,639 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: inGameItems_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 85f180b383db9de4c9860007a352e5ac, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7860862976
+    m_Localized: ENTER PASSCODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629205057536
+    m_Localized: SIGN IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839897530368
+    m_Localized: PASSWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031237484544
+    m_Localized: ENTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1184656736256
+    m_Localized: WRONG DATA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6053618728960
+    m_Localized: Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6359953915904
+    m_Localized: Hi! We've been trying to..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6695171080192
+    m_Localized: 20 oct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6934372237312
+    m_Localized: Hi! We've been trying to contact you about prologing your subscription.
+      Gain even more benefits by choosing annual plan! Thank you for using Op-Com
+      service!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7414817177600
+    m_Localized: We are informing you tha..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995073970176
+    m_Localized: We are informing you that there are uncorfirmed reports of missing
+      children all over the state. Please be aware and watch out for your loved ones.
+      We are developing an investigation group to figure everything out. Thank you
+      for your time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039778627584
+    m_Localized: 'Thank you for your purchase! Remember to reconfigure your safe
+      locker before usage. The stock passcode is: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9335695163392
+    m_Localized: Thank you for your purch..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9519615393792
+    m_Localized: Holla, Andrew. Just wann..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9748020412416
+    m_Localized: Holla, Andrew. Just wanna let you know that we are going to a party
+      win Jenn. I would like you to be there. Just don't bring kids, alright? Kidding.
+      Anyways, looking forward for your call!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10939857059840
+    m_Localized: Sender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11132656631808
+    m_Localized: NO CONNECTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11386554630144
+    m_Localized: RETRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11927393353728
+    m_Localized: Networks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106464968704
+    m_Localized: CONNECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12733811212288
+    m_Localized: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424629858304
+    m_Localized: Home Light Manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13658944651264
+    m_Localized: Required distance is ~3 meters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14437185175552
+    m_Localized: DEVICES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14880007208960
+    m_Localized: IN RANGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15100354969600
+    m_Localized: OUT OF RANGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15669253586944
+    m_Localized: LOCKED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15750442729472
+    m_Localized: UNLOCKED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16443568242688
+    m_Localized: Gonna be late
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16682857480192
+    m_Localized: Don't worry. We'll t..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16850818383872
+    m_Localized: Thanks dad!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17501132636160
+    m_Localized: 'You: This will do.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19965110075392
+    m_Localized: "999-122-2 Jarret\n999-100-3 William\n\n30.10.22 15:00 Willow Street
+      \n-------------------------------------\n\n15.11.22 16:35 Town Square\n999-953-0
+      Claire Frost\n\n======================\n\n21.10.22 - 27.10.22 Bruce vacation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20317515497472
+    m_Localized: 'work account:
+
+      aenk_ti56
+
+      1Rdm398K
+
+
+      reserve
+      email
+
+      d.brown111233@mailservice.com
+
+      wasd198513
+
+
+      work email
+
+      d.brown11233@electronicmail.com'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20606494654464
+    m_Localized: 'rents
+
+
+      Darryl = $1000
+
+      20.05.22
+
+
+      Linda and
+      Floyd $2335
+
+      11.06.22
+
+
+      Margaret = $300 [paid]
+
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21462992502784
+    m_Localized: "30.11.22 - Jayne \n03.12.22 - Jack [call]\n03.12.22 - Bruce [call]\n\n======================\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319438013022208
+    m_Localized: COMPUTER SCIENCE NOTEBOOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319531814436864
+    m_Localized: My Computer Science notebook. My teacher tells me I'm really good
+      at this, but I just hate all this PC related stuff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323293635362816
+    m_Localized: 'System File Checker (SFC[1]) is a utility that allows users to
+      scan for errors and restore corrupted system files.
+
+
+      SFC SCANNOW
+
+
+      To
+      run the utility and restore missing files and drivers type {passcode} command
+      into console prompt. Once SFC check is finished, an Operating System will download
+      corrupted files.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366297247072256
+    m_Localized: NO MESSAGES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366668719800320
+    m_Localized: '- your code to log in'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367828264501248
+    m_Localized: Here is your link
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368244872134656
+    m_Localized: 'In case of recovery use the method
+
+      below:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368589148995584
+    m_Localized: Don't forget to insert the recovery key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369174606725120
+    m_Localized: 'NORTH WEST = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370016449675264
+    m_Localized: 'SOUTH WEST = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370148033380352
+    m_Localized: 'NORTH EAST = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370300844457984
+    m_Localized: 'SOUTH EAST = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370395304378368
+    m_Localized: 'WEST SWITCH = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370507208409088
+    m_Localized: 'EAST SWITCH = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370870028288000
+    m_Localized: 'BIG = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371564152045568
+    m_Localized: ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371572574208000
+    m_Localized: OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371869006643200
+    m_Localized: 'BIG BUTTON = '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373884826894336
+    m_Localized: 'no bootable
+
+      device found'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374562504785920
+    m_Localized: INSTALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375000511758336
+    m_Localized: '>> C:/OS/User
+
+      An error occured trying to install vital drivers.
+
+      Use
+      external command to install missing drivers.
+
+      >> C:\OS\Users>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377040776413184
+    m_Localized: '[click here to enter command]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377462278799360
+    m_Localized: command not found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404218377355264
+    m_Localized: PHONE NUMBER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404334437941248
+    m_Localized: Send confirmation code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404925566369792
+    m_Localized: CODE SENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406724612407296
+    m_Localized: Hello!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407141027102720
+    m_Localized: Oh. Ok..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407383998939136
+    m_Localized: 'You: See you soon.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407617487454208
+    m_Localized: Aww.. Can't wait!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407834697875456
+    m_Localized: I won't
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409806956085248
+    m_Localized: I told him that, so we're suppossed to be there in two days or so.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410030759952384
+    m_Localized: Cool, I hope I won't miss this one, really excited..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410198506946560
+    m_Localized: BTW, how's Loren doing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410304278904832
+    m_Localized: She's fine.. I guess she can't wait to get there as well.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410562203435008
+    m_Localized: Hello!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412442098876416
+    m_Localized: I just asked him about that, never had in mind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412570742374400
+    m_Localized: It will turn out like this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412620860112896
+    m_Localized: Well, is he ok right now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412680280817664
+    m_Localized: I'll try talk to hum later and will keep you updated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412753068769280
+    m_Localized: Sure thing. You can actually bring him tomorrow at my place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412831334481920
+    m_Localized: Oh. Ok..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671203292037120
+    m_Localized: Hey! Don't forget about the meeting today.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671253338472448
+    m_Localized: Sure thing, boss. Will be there in 30.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671264507904000
+    m_Localized: Ok. Please, be in time. This one is really important
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671272149925888
+    m_Localized: See you soon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675201453604864
+    m_Localized: What's the passcode again?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675216423075840
+    m_Localized: Just remember it already..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675224283201536
+    m_Localized: Thanks.. I'll try!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675231212191744
+    m_Localized: Are kids asleep?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675240297054208
+    m_Localized: They are.. So when will you come home?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675249709072384
+    m_Localized: In a day. Expect a present from me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675299864559616
+    m_Localized: Aww.. Can't wait!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677113406111744
+    m_Localized: It's Andrew. Tomorrow, 4 PM, Downstreet 37?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677121815691264
+    m_Localized: I know, I will be there.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677133404553216
+    m_Localized: Don't forget the file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677142401335296
+    m_Localized: I won't
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686543577235456
+    m_Localized: DAD'S NOTEBOOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686641765892096
+    m_Localized: 'georgenell@mail.com
+
+      {passcode}
+
+
+      ex12,14,16,19
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715603485343744
+    m_Localized: Hey! Don't forget about..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715664936091648
+    m_Localized: Greetings!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715731076071424
+    m_Localized: This in an automated...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715769349095424
+    m_Localized: Login attemp detected. If..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715965520887808
+    m_Localized: 'Login attemp detected. If it wasn''t you, write a response to this
+      message. Your temporary code to enter is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716067434086400
+    m_Localized: Hey! Don't forget about our deal this weekends. I will be at your
+      place. See you soon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716083141754880
+    m_Localized: 'Greetings!
+
+      Once again we wanted to show our gratitude for
+      your donation. Your contribution will save lots of dogs that require special
+      care. Thank you!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716148417708032
+    m_Localized: This in an automated response. Your subscription is about to expire.
+      You can choose desired plan in your personal account. Thank you for using Music+!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719599184855040
+    m_Localized: Notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719848985018368
+    m_Localized: office:..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719971492249600
+    m_Localized: Admiral avenue...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720189210181632
+    m_Localized: '(049)-223-49
+
+      William'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720229701992448
+    m_Localized: 'office:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720417443233792
+    m_Localized: "Admiral avenue, \nstreet 79, 18:00\nJacob"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720981409349632
+    m_Localized: '- your code to sign in'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721411317121024
+    m_Localized: Reset password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721577893904384
+    m_Localized: Wrong passcode. Use 'reset password' to reset it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721908740603904
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722074096844800
+    m_Localized: Temporary code has been sent to ge*****ell@m***.com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722560006963200
+    m_Localized: 'work account:
+
+      aenk_ti56
+
+      1Rdm398K
+
+      112eddqq638
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 935022488666112
+    m_Localized: Enter passcode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939578773684224
+    m_Localized: Messenger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939840473088000
+    m_Localized: My meetings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950049128005632
+    m_Localized: Photos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950518550315008
+    m_Localized: Work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950610556567552
+    m_Localized: Numbers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413682953928704
+    m_Localized: UNLOCKED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1477662514823168
+    m_Localized: hours ago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835606775382016
+    m_Localized: REBOOT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835650379366400
+    m_Localized: Reboot your PC to complete installation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1836346046627840
+    m_Localized: Installing drivers..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040152386650112
+    m_Localized: Browser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2122366600298496
+    m_Localized: now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2811984597434368
+    m_Localized: QR Scanner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3838933637742592
+    m_Localized: CONNECTED
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

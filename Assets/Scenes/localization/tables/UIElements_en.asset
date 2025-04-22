@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIElements_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e96496fa32b61bd428b8c60f791321e1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7638564864
+    m_Localized: CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45185974272
+    m_Localized: CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72276983808
+    m_Localized: TO MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91281375232
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1167116156928
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387145150464
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2141012574208
+    m_Localized: SPRINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160428007424
+    m_Localized: FLASHLIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176513163264
+    m_Localized: USE DEVICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203012775936
+    m_Localized: ACTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241940111360
+    m_Localized: INSPECT ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2287045656576
+    m_Localized: DROP ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298915536896
+    m_Localized: JOURNAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2313939533824
+    m_Localized: HIGHLIGHT ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2347980505088
+    m_Localized: '[AVAILABLE AFTER 30 MINUTES]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452516370497536
+    m_Localized: LOADING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455361358512128
+    m_Localized: LOCATION DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456996826693632
+    m_Localized: LEVEL CONFIGURATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22842408849362944
+    m_Localized: INVENTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47992912946307072
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47993083172134912
+    m_Localized: HIDE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

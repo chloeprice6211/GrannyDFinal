@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: uiManager_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dcb2a84c8a69edc4fa09cd955bbcbd4d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10167730176
+    m_Localized: TAKE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153239633920
+    m_Localized: CLOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249238863872
+    m_Localized: OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310408593408
+    m_Localized: PULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 760260280320
+    m_Localized: PUSH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 803721658368
+    m_Localized: READ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 861431087104
+    m_Localized: TURN ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229590315008
+    m_Localized: TURN OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1286062424064
+    m_Localized: GET IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1348217815040
+    m_Localized: LEAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452282691584
+    m_Localized: ACTIVATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1611100012544
+    m_Localized: OPERATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195845605441536
+    m_Localized: COLLECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2196151198236672
+    m_Localized: READ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2238457834061824
+    m_Localized: '[W] MOVE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2238544622600192
+    m_Localized: '[R] POWER ON/OFF'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2239073985708032
+    m_Localized: '[SPACE] START (HOLD)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4060026336133120
+    m_Localized: PRESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082615783735296
+    m_Localized: INSTALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082695509065728
+    m_Localized: OPERATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083061688582144
+    m_Localized: REFILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4083163123630080
+    m_Localized: '[HOLD]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4086869814624256
+    m_Localized: INSERT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4087918847803392
+    m_Localized: USE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11234649351864320
+    m_Localized: <color=green>+1</color> inventory slot
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

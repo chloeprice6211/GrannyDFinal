@@ -1,0 +1,552 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: inGameItems Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: inGameItems
+  m_TableCollectionNameGuidString: 85f180b383db9de4c9860007a352e5ac
+  m_Entries:
+  - m_Id: 7860862976
+    m_Key: phonePasscodeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629205057536
+    m_Key: lvl1phoneEmailSignIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839897530368
+    m_Key: lvl1phoneEmailPasswordPlaceholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031237484544
+    m_Key: lvl1phoneEmailEnter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1184656736256
+    m_Key: lvl1phoneEmailWrongSign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6053618728960
+    m_Key: lvl1phoneEmailMainEmail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6359953915904
+    m_Key: lvl1phoneEmail1MailHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6695171080192
+    m_Key: lvl1phoneEmail1MailDate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6934372237312
+    m_Key: lvl1phoneEmail1MailContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7414817177600
+    m_Key: lvl1phoneEmail2MailHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995073970176
+    m_Key: lvl1phoneEmail2MailContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9039778627584
+    m_Key: lvl1phoneEmail3MailContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9335695163392
+    m_Key: lvl1phoneEmail3MailHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9519615393792
+    m_Key: lvl1phoneEmail4MailHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9748020412416
+    m_Key: lvl1phoneEmail4MailContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10939857059840
+    m_Key: lvl1EmailSenderLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11132656631808
+    m_Key: lvl1EmailNoConnection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11386554630144
+    m_Key: emailRetry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11927393353728
+    m_Key: lvl1WifiNetworksLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106464968704
+    m_Key: connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12733811212288
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13424629858304
+    m_Key: lvl1HomeLightAppLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13658944651264
+    m_Key: lvl1HomeLightAppTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14437185175552
+    m_Key: lvl1HomeLightAppBoxes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14880007208960
+    m_Key: fuseboxStatusInRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15100354969600
+    m_Key: fuseboxStatusOutOfRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15669253586944
+    m_Key: fuseboxButtonLocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15750442729472
+    m_Key: fuseboxButtonUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16443568242688
+    m_Key: lvl1MessangerMessage1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16682857480192
+    m_Key: lvl1MessangerMessage2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16850818383872
+    m_Key: lvl1MessangerMessage3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17501132636160
+    m_Key: lvl1MessangerMessage4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19965110075392
+    m_Key: lvl1LaptopNumNotepadContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20317515497472
+    m_Key: lvl1LaptopPasswordNotepadContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20606494654464
+    m_Key: lvl1LaptopMainContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21462992502784
+    m_Key: lvl1LaptopMeetingContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319438013022208
+    m_Key: lvl3ComputerScienceNoteTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319531814436864
+    m_Key: lvl3ComputerScienceNoteContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323293635362816
+    m_Key: lvl3ComputerScienceReaderContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366297247072256
+    m_Key: noMessages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366668719800320
+    m_Key: logInCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367828264501248
+    m_Key: openLink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368244872134656
+    m_Key: switcherBrowserUpper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368589148995584
+    m_Key: switcherBrowserLower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369174606725120
+    m_Key: northWest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370016449675264
+    m_Key: southWest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370148033380352
+    m_Key: northEast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370300844457984
+    m_Key: southEast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370395304378368
+    m_Key: westSwitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370507208409088
+    m_Key: eastSwitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370870028288000
+    m_Key: bigSwitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371564152045568
+    m_Key: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371572574208000
+    m_Key: off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371869006643200
+    m_Key: big
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373884826894336
+    m_Key: noBootableDevice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374562504785920
+    m_Key: install
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375000511758336
+    m_Key: consoleErrorOccured
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377040776413184
+    m_Key: consoleClickHere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377462278799360
+    m_Key: consoleCommandNotFound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404218377355264
+    m_Key: phoneNumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404334437941248
+    m_Key: sendConfirmation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404925566369792
+    m_Key: codeSend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406724612407296
+    m_Key: hello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407141027102720
+    m_Key: ohOk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407383998939136
+    m_Key: seeSoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407617487454208
+    m_Key: cantWait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407834697875456
+    m_Key: sureGotIt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409806956085248
+    m_Key: jarretMessage1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410030759952384
+    m_Key: jarretMessage2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410198506946560
+    m_Key: jarretMessage3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410304278904832
+    m_Key: jarretMessage4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410562203435008
+    m_Key: jarretMessage5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412442098876416
+    m_Key: emily1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412570742374400
+    m_Key: emily2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412620860112896
+    m_Key: emily3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412680280817664
+    m_Key: emily4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412753068769280
+    m_Key: emily5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412831334481920
+    m_Key: emily6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671203292037120
+    m_Key: bob1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671253338472448
+    m_Key: bob2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671264507904000
+    m_Key: bob3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671272149925888
+    m_Key: bob4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675201453604864
+    m_Key: layla1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675216423075840
+    m_Key: layla2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675224283201536
+    m_Key: layla3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675231212191744
+    m_Key: layla4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675240297054208
+    m_Key: layla5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675249709072384
+    m_Key: layla6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675299864559616
+    m_Key: layla7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677113406111744
+    m_Key: tim1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677121815691264
+    m_Key: tim2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677133404553216
+    m_Key: tim3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677142401335296
+    m_Key: tim4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686543577235456
+    m_Key: workNoteTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686641765892096
+    m_Key: workNoteContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715603485343744
+    m_Key: lvl2Mail1Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715664936091648
+    m_Key: lvl2Mail3Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715731076071424
+    m_Key: lvl2Mail4Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715769349095424
+    m_Key: lvl2Mail5Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715956788346880
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715965520887808
+    m_Key: lvl2EmailContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716067434086400
+    m_Key: lvl2Email2Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716083141754880
+    m_Key: lvl2Email23ontent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716148417708032
+    m_Key: lvl2Email24ontent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719599184855040
+    m_Key: notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719848985018368
+    m_Key: office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719971492249600
+    m_Key: adress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720189210181632
+    m_Key: noteNote1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720229701992448
+    m_Key: noteNote2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720417443233792
+    m_Key: noteNote3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720981409349632
+    m_Key: messangerCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721411317121024
+    m_Key: resetPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721577893904384
+    m_Key: wrongPcPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721908740603904
+    m_Key: enterTextPlaceholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722074096844800
+    m_Key: resetedPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722560006963200
+    m_Key: lvl3PasswordNotepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 935022488666112
+    m_Key: enterPasscode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939578773684224
+    m_Key: messangerAppName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939840473088000
+    m_Key: laptopAppName_meetings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950049128005632
+    m_Key: laptopAppName_photos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950518550315008
+    m_Key: laptopAppName_work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950610556567552
+    m_Key: laptopAppName_numbers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413682953928704
+    m_Key: fuseboxButtonUnocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1477662514823168
+    m_Key: hoursAgo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835606775382016
+    m_Key: reboot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835650379366400
+    m_Key: rebootTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1836346046627840
+    m_Key: installingDrivers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2040152386650112
+    m_Key: browserAppName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2122366600298496
+    m_Key: now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2811984597434368
+    m_Key: qrScannerAppName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3838933637742592
+    m_Key: connected
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4026154601650061322
+  references:
+    version: 2
+    RefIds:
+    - rid: 4026154601650061322
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691945589694

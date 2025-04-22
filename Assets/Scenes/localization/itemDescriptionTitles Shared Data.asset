@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: itemDescriptionTitles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: itemDescriptionTitles
+  m_TableCollectionNameGuidString: abca6502692db3641aaa9b976c4c3ccc
+  m_Entries:
+  - m_Id: 22163439616
+    m_Key: dt-battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138848976896
+    m_Key: dt-pills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337189224448
+    m_Key: dt-carkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386640068608
+    m_Key: dt-key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447264538624
+    m_Key: dt-keycard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486569361408
+    m_Key: dt-carjack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640621953024
+    m_Key: dt-garageremote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707772760064
+    m_Key: dt-jerrycan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 884831109120
+    m_Key: dt-laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 961200996352
+    m_Key: dt-crucifix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1011402620928
+    m_Key: dt-screwdriver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061683937280
+    m_Key: dt-smartphone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1205015887872
+    m_Key: dt-injector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470653743104
+    m_Key: dt-usb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595333623808
+    m_Key: dt-wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1635544416256
+    m_Key: dt-wrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7210492469395456
+    m_Key: dt-vankey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213410866118656
+    m_Key: dt-worknote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213508127834112
+    m_Key: dt-walkietalkie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213741092061184
+    m_Key: dt-carremotekey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214077060005888
+    m_Key: dt-gear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007889252466688
+    m_Key: lvl2CarTrunk_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008163476062208
+    m_Key: lvl2Book_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008413351723008
+    m_Key: cd_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008531656261632
+    m_Key: lvl2Frontyard_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008636924903424
+    m_Key: lvl2Locker_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008938616995840
+    m_Key: entry_DT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11261100625182720
+    m_Key: dt-ComputerScienceNoteContent
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2405969354894082087
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969354894082087
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689693715079

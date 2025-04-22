@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a522e036bf2654d898d5429bc009b735
+timeCreated: 1502288629
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Assets/Shaders/Waves.shader
+  uploadId: 220969

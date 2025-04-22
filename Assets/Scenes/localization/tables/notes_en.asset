@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: notes_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 882bfff6f69bd4041bb07a21e92f4aae, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17218355200
+    m_Localized: 'Jane, we are about to leave for a business trip in about 2 days.
+      IT will take some time but you''ll manage. We will give you some change to
+      stay "alive" for a while, but in case of emergency just call aunt Nancy. Also,
+      just please, be careful out there. We will be out for about 2 weeks. You can
+      always call us if you feel uncomfortable.
+
+      Love you, mom'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56464457728
+    m_Localized: MOM'S NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028783816704
+    m_Localized: Jane, until we are home please watch out for Chloe. Her homework
+      should be done by tomorrow. Keep the house clean and don't forget to do the
+      laundry.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260088506564608
+    m_Localized: MOM'S NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264761982976
+    m_Localized: Don't leave this house.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512104284160
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614902480896
+    m_Localized: A DRAWING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 579884236800
+    m_Localized: Dad, mom, me, sister and ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708049584128
+    m_Localized: A NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 731294416896
+    m_Localized: Help.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791939858432
+    m_Localized: 'Math:
+
+      ex 66: a), b), c)
+
+
+      History:
+
+      132-209
+      II
+
+
+      chemistry:
+
+      ex 12, 14, 16, 19'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840413429760
+    m_Localized: HOMEWORK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693310799872
+    m_Localized: 'INTERNET CORP
+
+
+      Personal account
+
+
+      Login
+
+      917333
+
+      Password
+
+      oaoket0t1
+
+
+      {passcode}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211339132928
+    m_Localized: This if officer Berry. I've been trying to reach out to you, so
+      I'll just leave this note on your door. I know we don't get along together.
+      But I still care about the residents here, including you. I urge you to leave
+      this place as fast as you can. There is something strange is going on. That's
+      the only thing I can tell you. Take your family and just move. You are not
+      safe here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234416193536
+    m_Localized: OFFICER NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 921808093184
+    m_Localized: A CODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632027824128
+    m_Localized: WI-FI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 862420942848
+    m_Localized: '{passcode}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1020184119427072
+    m_Localized: WI-FI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1020201362210816
+    m_Localized: 'connected
+
+
+      ACCOUNT NUMBER
+
+      3432422
+
+
+      ID
+
+      1222
+
+
+      {passcode}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1201224237056
+    m_Localized: MOM'S NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051915403264
+    m_Localized: 'Kelly, I forgot my keys at work so I took yours. You were asleep
+      and I didn''t wanna bother you. We''ll be home in the morning.
+
+      Love
+      you, mom.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025939652427776
+    m_Localized: MORSE CODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025954114387968
+    m_Localized: 'International Morse Code
+
+
+      1. The length of a dot is one
+      unit.
+
+      2. A dash is three units.
+
+      3. The space between parts of
+      the same letter is one unit.
+
+      4. The space between letters is three units.
+
+      5. 
+      The space between words is seven units.
+
+
+      radio:
+
+      440
+
+      122
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027699745964032
+    m_Localized: WI-FI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027716128915456
+    m_Localized: 'Internet company
+
+
+      Use this data to access your cabinet.
+      You can manage subscriptions and top up your balance in order to get access
+      to internet. If any help needed - 079-11-45.
+
+
+      Account number
+
+      038488-11123
+
+      Password
+
+      kaJmNHg78w
+
+
+      {passcode}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028636212412416
+    m_Localized: A NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028664427495424
+    m_Localized: "    E G C\nA L F H N\n   P X R T\n   U W S\n     ENTER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029762982821888
+    m_Localized: DAD'S NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029775498625024
+    m_Localized: 'Honey, call me when you''re awake. Just wanted to say that I''m
+      excited for the party Josh invited us to. Don''t be late today, we should be
+      there by 8 PM. Also, don''t forget to leave the kids some change so they can
+      order pizza while we''re away.
+
+      Love you.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089234103123968
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089271621173248
+    m_Localized: look on the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2109939024347136
+    m_Localized: 'System File Checker (SFC[1]) is a utility that allows users to
+      scan for errors and restore corrupted system files.
+
+
+      SFC SCANNOW
+
+
+      To
+      run the utility and restore missing files and drivers type {passcode} command
+      into console prompt. Once SFC check is finished, an Operating System will download
+      corrupted files.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2110470979534848
+    m_Localized: My Computer Science notebook. My teacher tells me I'm really good
+      at this, but I just hate all this PC related stuff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2110576550166528
+    m_Localized: COMPUTER SCIENCE NOTEBOOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2375049429073920
+    m_Localized: DAD'S NOTEBOOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2375186532483072
+    m_Localized: 'georgenell@mail.com
+
+      {passcode}
+
+
+      ex12,14,16,19
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4327373085032448
+    m_Localized: Kelly, stay home! No sleepovers until we are home. In case you're
+      confused and looking for your keys I left a note in your bedroom explaining
+      why I took them!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

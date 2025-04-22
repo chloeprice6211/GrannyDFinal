@@ -1,0 +1,601 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Ukrainian (uk)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Ukrainian (uk)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f95d1c6ee09f50746a0a9c4367397200
+  m_SerializeEntries:
+  - m_GUID: 84fcaa51c9f71104b81ac90d3b79a610
+    m_Address: noFuelShit
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5ba3f7efc9371f43a92b5ae7d60c686
+    m_Address: needAnotherKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a41d67d9a8658c1458cd53aa6e1e9d25
+    m_Address: keycard
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5069d90018aad6147a6e16a8927b04fe
+    m_Address: goodThingFlashlight
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44f1d3f08a8de424b8731ae746a8084f
+    m_Address: flashlightTaken
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6de77fb26d0f066489142dff8c570c12
+    m_Address: usbV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0987a7cf8754c94a935f73c773e2eeb
+    m_Address: unknownKeyV1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87752f8423f017141a40948ab39940c2
+    m_Address: fuseboxLocked
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3003ea41448ab944929d83406147c0d
+    m_Address: insertKeycard
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da9618eca7661b949b6cc9a427be3176
+    m_Address: missingWheel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29ac3ae73c5d08941a9edf0803efe0b0
+    m_Address: try1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fbce4efa00acf5458ba9e2c4ad2355b
+    m_Address: try2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb1b8b8170f47b94fb8a6dd391e70e90
+    m_Address: try3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9508fa23488ec924e9e3f7a8e47713e4
+    m_Address: keySomwehre
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56d882fc41b81f34fb7a4ec0742a5e6a
+    m_Address: mainGateKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c2567289a45c7e41bf16b5a82bfd424
+    m_Address: combinationV3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a775e9fb8da0ed40aa42bfdc195e24b
+    m_Address: lockedWhat
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 090903a3f8af3664ab9d4e79d59d3c5c
+    m_Address: noPower
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94fc641eb6edbf74e82c8e090b910b7f
+    m_Address: carOnCarJack
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b040cb674c2e6e74988627ccdf2daffa
+    m_Address: myKeyroom
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3371e954a9daeca408a3234e47788973
+    m_Address: cantGetThrough
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a2a60c5f355de649995786e0ed524c4
+    m_Address: wrench
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4dcb0cf04bbef34b9315b6774975496
+    m_Address: openTrunk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 454ac89f1f1b31540900fd9f1b12bed5
+    m_Address: 2batteries
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98d7ae6cdb01e9646874262a237ececf
+    m_Address: remoteBattery
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a4d6066f3062ad4a94ad23d673350d5
+    m_Address: onWifiApp
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a482d8209e107984fb8d37d97ae8d4af
+    m_Address: ventOpened
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f496e7e2a1a1b14381fc8937d4d82ab
+    m_Address: needKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 563b98377ab6ff54a9d901afcfec2dbc
+    m_Address: somethingUnlocked
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c03cef3a4fa87c34d9ab7be82583a328
+    m_Address: needtoTurnPc
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f80f59ec4e213d499ae70443e53f677
+    m_Address: noPills
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7f887d1ba01c244d8e8714bf5b81666
+    m_Address: moreBattery
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e42cf3d173575de479f833886286f0ee
+    m_Address: rightPanel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5693d557206fc948a02a7f7b36dc0ba
+    m_Address: shouldWorkV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfb1c0cbd9d864545b4c6faf3e057589
+    m_Address: powerlessGate
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95ab2b02f32a5f442b497e5a4a0f0108
+    m_Address: carBreakthrough
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 287c6967210c4fa408bf43871f76fc0b
+    m_Address: unlockGateFirst
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7601c83df0f0b3545bf683e08be95b6f
+    m_Address: noSyringe
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 077aa3e690115e1458bc5e7fbeeb92ab
+    m_Address: powerless
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54d111c2fd5302149aaaacc3dca837ce
+    m_Address: howToOpen
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 528b25092a95038439424aec92e88c25
+    m_Address: letssee
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d004367650389a943a8d88a464b3e739
+    m_Address: basementKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29a27787dfa64ee44872d10c0aa8e36c
+    m_Address: batteryV1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d49badede02f3146940578f10fa80e8
+    m_Address: carJack
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c59150016b85d404aa0dfe71d911becf
+    m_Address: carKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ad8e4832abc7234989b94552c0026ff
+    m_Address: combinationV1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c419fc04b1d8c5c40a3c1283d90bbcfe
+    m_Address: garageDoorKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff00083490ea7644acb1b26d25a3cba
+    m_Address: homeLightCard
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0127040a60b1d824a851c530fd1a725e
+    m_Address: pills
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50878c80e0a61994589964bf6c54e215
+    m_Address: remoteV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 138ef7389c2d5ee49adcad22284fe749
+    m_Address: stillFuel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7455896ed0e67e45a64418379d2058e
+    m_Address: unknownkeyv2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 472840626e4c5ef4b96850663b1d56e5
+    m_Address: unknownKeyVar1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a98760ad1b6c96e46b08ba956723d92c
+    m_Address: somethingUsefulHereV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a65335a7e2680d44b81bb7994f91bd0
+    m_Address: hm
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07e2c886c2604a44db693e4e3c63baa9
+    m_Address: screwdriverLvl1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e9c5547977bfd546b26c2db1faabaa7
+    m_Address: phone
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4965309fc17b3b48ae726ff8c418b28
+    m_Address: injector
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aedadf3a03377ab479c9b51d7031399d
+    m_Address: wheel
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52f4b28c4bea8f748aec55d78c95145a
+    m_Address: whatthe
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0afc1390750fdd34c9872383aca15f96
+    m_Address: whattheV4
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb53e43a3f8e3f348a1c5d8319f49412
+    m_Address: homework
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 500f0b6df215bfe4ab566381bb84704c
+    m_Address: timing
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e27d0aba73c512e4cb06385d4e230e95
+    m_Address: sorrymom
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c4606f5cff5964478de66585e05ae11
+    m_Address: policeNote
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b821318d73ec4d4bb335cd1343e54fb
+    m_Address: wifiPickup
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdc272f1d52f6384da1c6bbd6307d558
+    m_Address: shouldWorkV1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9c023e1dfc827545af2baeda88c3595
+    m_Address: gatesOpen
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c0938011de43994ab867432fc6af222
+    m_Address: trunkKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f66f0b1f571dd8741afe9a8760137ea2
+    m_Address: batteryV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd7a2035339a68e4fa777001abb2db0a
+    m_Address: dadKeycard
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef798afc2a2069f4eb2f6163b93ac60f
+    m_Address: laptopRepair
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f007ea6ac91f6d74789b74e01dabecee
+    m_Address: timeToGetOut
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c84cabaaacf54d247901b797d90906fd
+    m_Address: storeroomKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e75765d31d1dfe743ab2e08852c9888e
+    m_Address: backyardKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d9726e8fb61b504d900441118fe57b9
+    m_Address: computerScience
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01b777f79b4adb24ba9a40b4bfe265b2
+    m_Address: combinationV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81b73955bbc6ac34abb5ff3b769c066c
+    m_Address: vanKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f17245b3ec18a14db8662988e5fef28
+    m_Address: ifOnlyICouldDrive
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7f090eabf6bad43a8b7d63cf523d49
+    m_Address: howToUseV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11ffa7ca02272b4419341e060d780521
+    m_Address: dadWorknote
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ab1bcbde7d38a544992433550740938
+    m_Address: RUN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bed51b2e35787d4fb64511735a8e44d
+    m_Address: customKeyboard
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1002402c501e0a54491bed72629e0b91
+    m_Address: ohGodV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7406d2d60a895474cb728e95f412ac6d
+    m_Address: hidenow
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 247fb7b5e35c4674b849c5eb97232fba
+    m_Address: whattheV3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6de239036ec1dbf4fb26deadcd603ae5
+    m_Address: ohGodV3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d1c6f800401e4409d55cebc3ab35b1
+    m_Address: drawing
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01384cf0a4fea3144817cb613b7ee6bf
+    m_Address: startlineRevamp2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c63bb7c5c77db49478f804de696a20de
+    m_Address: powerlessGateV2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa1a1b3858a260741be8a40cabb8ea2a
+    m_Address: armoredShelf
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed56253e3deae4b4cab566d53139ae40
+    m_Address: switcherKey
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c36688f6e3f96f540a73ea05b09a38e5
+    m_Address: case
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01fc3bcf9c4426746828d84ce70de992
+    m_Address: needCarJack
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5b0695f3e648ed4fa0d355eae5bfa0c
+    m_Address: startlineV3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 530d74eca62f86547a8a39456569eabe
+    m_Address: startlineRevamp3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 3bc3d1182d55f824a912e695c8dc25d5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 716b267717956044bb1bac22747d4411, type: 2}
+    - {fileID: 11400000, guid: 3332805e3396c7d4c90cdfb5a189ca53, type: 2}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c1347e127f684ebca63c8209e7e4ad2
+timeCreated: 1490867525
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Assets/Shaders/Scanlines.shader
+  uploadId: 220969

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ef60e3c6e123464bad5b6d9e8aa7910
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInventory: {instanceID: 0}
+  - keysHolder: {instanceID: 0}
+  - keyScriptable: {instanceID: 0}
+  - grab: {fileID: 8300000, guid: 769dc7328a2d6944ca82bb317acf3cee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

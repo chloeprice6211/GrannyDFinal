@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ea672c788db424085b0b08372aa298ec
+timeCreated: 1492686565
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Assets/Scripts/ShaderEffect.cs
+  uploadId: 220969

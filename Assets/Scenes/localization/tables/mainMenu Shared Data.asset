@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: mainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: mainMenu
+  m_TableCollectionNameGuidString: fe2662314be166c468e5b5080081f0f2
+  m_Entries:
+  - m_Id: 61396959232
+    m_Key: playersCap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144838443008
+    m_Key: lvlDifficultyMedium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2555002961920
+    m_Key: lvlDifficultyHard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633851682816
+    m_Key: lvlDifficultyLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2881571471360
+    m_Key: newReleaseLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3015713701888
+    m_Key: settingsLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3170160558080
+    m_Key: quitLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3383122149376
+    m_Key: locationSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3483613478912
+    m_Key: chapterLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33180380512256
+    m_Key: reportBugLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35256837816320
+    m_Key: ghostStrengthLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35471028338688
+    m_Key: ghostEasyLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35535452848128
+    m_Key: ghostNormalLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52506537967616
+    m_Key: settingsLabe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54550497804288
+    m_Key: levelDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55519520440320
+    m_Key: highlightLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210228201865216
+    m_Key: settingsSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210365422714880
+    m_Key: returnButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211602880806912
+    m_Key: playButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213695532318720
+    m_Key: ghostDemonLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214075141996544
+    m_Key: inviteButtonInvite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215479168483328
+    m_Key: inviteButtonMax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221889256177664
+    m_Key: submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222332321480704
+    m_Key: inputFIeldText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222494431330304
+    m_Key: reportBug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226713917931520
+    m_Key: itemsGuide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227960230199296
+    m_Key: exitLobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244033667153920
+    m_Key: highlightTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1373962295263232
+    m_Key: settingsMenuVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1374529923006464
+    m_Key: VolumeSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375414996647936
+    m_Key: settingsBrightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375685902548992
+    m_Key: settingsGraphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377502837293056
+    m_Key: settingsApply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105794607398912
+    m_Key: return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2773190225641472
+    m_Key: subsSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2773309369040896
+    m_Key: subLanguageSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2774258569396224
+    m_Key: languageSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2776790297427968
+    m_Key: voiceVolumeSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2776911504424960
+    m_Key: voiceLanguageSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8334458940506112
+    m_Key: endingPanelReturn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8337762458222592
+    m_Key: conclustion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8337868918046720
+    m_Key: bugsAndSuggestions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338082693332992
+    m_Key: rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338822954434560
+    m_Key: placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8339144842100736
+    m_Key: endingEscaped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8340582699843584
+    m_Key: endingDied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8340958584979456
+    m_Key: endingLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8341475272900608
+    m_Key: endingMessageEscaped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8341643342856192
+    m_Key: endingMessageDied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170946188162801664
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170946195305701376
+    m_Key: volumesetting
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2405969354894082105
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969354894082105
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689708675241

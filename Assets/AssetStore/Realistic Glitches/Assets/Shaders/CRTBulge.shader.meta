@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b50d27bd994d4e4a9c450bbfa103218
+timeCreated: 1502533794
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107970
+  packageName: Realistic Glitches
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Glitches/Assets/Shaders/CRTBulge.shader
+  uploadId: 220969

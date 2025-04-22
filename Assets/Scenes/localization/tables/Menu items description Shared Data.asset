@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu items description Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu items description
+  m_TableCollectionNameGuidString: 4623a419f1dc1544ab2b749e73526b85
+  m_Entries:
+  - m_Id: 7059750912
+    m_Key: menuFlashlightTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216330354688
+    m_Key: menuFlashlightDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617139810304
+    m_Key: menuJournalTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1665055539200
+    m_Key: menuJournalDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3266369503232
+    m_Key: menuCrucifixTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3521353826304
+    m_Key: menuCrucifixDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4383824363520
+    m_Key: menuInjectorItlte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4498307891200
+    m_Key: menuInjectorDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5046130130944
+    m_Key: menuPillsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5093047615488
+    m_Key: menuPillsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624824188354560
+    m_Key: menuKeyTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624848351739904
+    m_Key: menuKeyDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 627971715710976
+    m_Key: menuGadgetTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628053487861760
+    m_Key: menuGadgetDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629114076348416
+    m_Key: menuGeneralTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629133252706304
+    m_Key: menuGeneralDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630813348282368
+    m_Key: menuToolTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632247154327552
+    m_Key: menuToolDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31108387798765568
+    m_Key: inventoryTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31108484460695552
+    m_Key: inventoryDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31109036695343104
+    m_Key: backpackTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31109248407031808
+    m_Key: backpackDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2405969466128596998
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969466128596998
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690115767791

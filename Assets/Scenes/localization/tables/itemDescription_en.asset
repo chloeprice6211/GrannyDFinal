@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: itemDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0cd1c1785d443da4d815fa9106312a93, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6254444544
+    m_Localized: A 9V battery. It might come in handy, I should keep it for now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224953843712
+    m_Localized: The pills mom uses to get rid of headache.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319074025472
+    m_Localized: Finally, a car key. I need to get out of here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360270479360
+    m_Localized: Now that's a small key. Let's find what door it unlocks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 477631299584
+    m_Localized: A Home Light Keycard. I can use it to unlock the fusebox in the
+      garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723019055104
+    m_Localized: 'Weeks of trainings with my dad and I finally mastered this thing. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 896340279296
+    m_Localized: That's the key for the locker in the garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 993379696640
+    m_Localized: Can't remember where this one goes exactly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192323923968
+    m_Localized: I can use this remote to open the garage. But is seems to be without
+      a battery.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1327443427328
+    m_Localized: 'Still some gasoline left. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425493671936
+    m_Localized: I have no idea where this one goes into
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507853025280
+    m_Localized: That's the key for my room. I can use it to unlock the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556100104192
+    m_Localized: Dad's working laptop. Might be something useful here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1649347870720
+    m_Localized: That's a key for the room in the basement. I'm still afraid to go
+      there..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1701525012480
+    m_Localized: Holy heavens..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740087443456
+    m_Localized: An old screwdriver. I noticed that dad always grabs it when going
+      down the basement..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1822375493632
+    m_Localized: Dad's smartphone. Unfortunately, with a passcode.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883708801024
+    m_Localized: An injector with unknown content. Is it even safe to use?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1927514112000
+    m_Localized: I have no idea what this flash drive contains. Now it's time to
+      find out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1976100929536
+    m_Localized: Huge and fancy wheel. I hope I didn't forget how to install this
+      thing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031922921472
+    m_Localized: A simple lug wrench that is used to install a car wheel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7212862611865600
+    m_Localized: Looks like a van key.. The one in the backyard garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213739976376320
+    m_Localized: If I remeber correctly, this one goes into the locker in the garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214456195727360
+    m_Localized: Old rusty key. Perhaps it unlocks something in the backyard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214816087982080
+    m_Localized: RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214981096095744
+    m_Localized: Just an old screwdriver.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215215704489984
+    m_Localized: The key for the car in the garage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215447230070784
+    m_Localized: That looks like a key to my room. I can use this to unlock the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215699198689280
+    m_Localized: A common walkie talkie. Requires two 9V batteries to function.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215903968804864
+    m_Localized: That's a notebook dad always keeps with him when off to work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006903641358336
+    m_Localized: Dad always keeps this key around. I can use it to unlock the car
+      trunk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007317484945408
+    m_Localized: Gotta be the bathroom key. I guess..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007538008866816
+    m_Localized: It helped me once when my PC was broken. Since then, It just lies
+      there for no purpose.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008085948547072
+    m_Localized: Keycard to dad's office. I wonder what can I find there..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008378400587776
+    m_Localized: Operating System install disk. I was supposed to repair dad's laptop
+      a week ago. I wonder if there's anything useful in this laptop?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008730441105408
+    m_Localized: The key that opens the main gate. Now I can finally get the hell
+      out of there.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009008720592896
+    m_Localized: If I remember correctly, this one supposed to go to the locker in
+      the storage room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009281258078208
+    m_Localized: Dad uses this remote to unlock the garage gate. It will certainly
+      come in handy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009594484506624
+    m_Localized: It should open the door that leads to the backyard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009954674556928
+    m_Localized: That's gotta be dad's laptop. There's definitely something useful
+      here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10857295618195456
+    m_Localized: That should be the key for the garage door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11263821776371712
+    m_Localized: My Computer Science notebook. My teacher tells me I'm really good
+      at this, but I just hate all this PC related stuff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11566163688112128
+    m_Localized: 'Looks like a part from some mechanism. '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

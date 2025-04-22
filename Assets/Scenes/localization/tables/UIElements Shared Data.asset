@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIElements Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIElements
+  m_TableCollectionNameGuidString: e96496fa32b61bd428b8c60f791321e1
+  m_Entries:
+  - m_Id: 7638564864
+    m_Key: pauseControls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45185974272
+    m_Key: pauseContinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72276983808
+    m_Key: pauseExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91281375232
+    m_Key: pauseSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1167116156928
+    m_Key: pauseExitConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387145150464
+    m_Key: pauseExitNo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2141012574208
+    m_Key: controlsSprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160428007424
+    m_Key: controlsFlashlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2176513163264
+    m_Key: controlsUseDevice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2203012775936
+    m_Key: controlsAction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241940111360
+    m_Key: controlsInspect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2287045656576
+    m_Key: controlsDrop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2298915536896
+    m_Key: controlsJournal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2313939533824
+    m_Key: controlsHighlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2347980505088
+    m_Key: controlsHighlightTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452516370497536
+    m_Key: loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455361358512128
+    m_Key: locationDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456996826693632
+    m_Key: levelConfig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22842408849362944
+    m_Key: inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27105833653448704
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47992912946307072
+    m_Key: uiNext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47993083172134912
+    m_Key: uiHide
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4026154577792598018
+  references:
+    version: 2
+    RefIds:
+    - rid: 4026154577792598018
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691840271032

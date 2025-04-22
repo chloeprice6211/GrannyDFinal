@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu items description_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4623a419f1dc1544ab2b749e73526b85, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7059750912
+    m_Localized: FLASHLIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216330354688
+    m_Localized: A crucial item for your runaway. Use [F] to activate. But be careful,
+      the entity is sensitive to light and sounds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617139810304
+    m_Localized: JOURNAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1665055539200
+    m_Localized: Lots of useful notes are scattered throughout the house. All found
+      notes are stored in your journal. Use [Q] to activate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3266369503232
+    m_Localized: CRUCIFIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3521353826304
+    m_Localized: If an entity is after you, you can exorcise it by holding a Crucifix
+      in hands. But do not rely on it for too long..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4383824363520
+    m_Localized: AUTO-INJECTOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4498307891200
+    m_Localized: An auto-injector can bring your fallen teammate back to life. Uses
+      are limited.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5046130130944
+    m_Localized: PILLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5093047615488
+    m_Localized: Whenever an entity is near, it will cause you to fall into fear.
+      While in fear, your vision is blurred and reduced. Pills can temporarily soften
+      this effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624824188354560
+    m_Localized: KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624848351739904
+    m_Localized: There are lots of keys across the map.  Press [F] to inspect an
+      item in your hands.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 627971715710976
+    m_Localized: GADGET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628053487861760
+    m_Localized: You can use gadgets like smartphone, laptop and others by pressing
+      [R].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629114076348416
+    m_Localized: GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629133252706304
+    m_Localized: In addition, every map has its own set of unique items and tools.
+      So, you will need to find a use for them on your own.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630813348282368
+    m_Localized: TOOL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632247154327552
+    m_Localized: Tools can be used to repair something or for any other purpuse.
+      Hold [E] to use them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31108387798765568
+    m_Localized: INVENTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31108484460695552
+    m_Localized: You can carry several items at the same time. Press [TAB] to open
+      inventory. Also, you can combine them by dragging one item onto another, if
+      they are compatible.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31109036695343104
+    m_Localized: BAG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31109248407031808
+    m_Localized: Find a bag to increase inventory capacity. Also grants extra slot
+      if playing alone.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

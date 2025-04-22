@@ -1,0 +1,909 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: characterLines Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: characterLines
+  m_TableCollectionNameGuidString: 6c2d4ed5211f20e41a4d8d29ddff0335
+  m_Entries:
+  - m_Id: 9669516808896512
+    m_Key: alertNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435468435636224
+    m_Key: battery_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9674780148711424
+    m_Key: batteryV2_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433498094223360
+    m_Key: blockedSwitchers_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123732388528128
+    m_Key: carJackPU_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435824561405952
+    m_Key: crucifix_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123938836365312
+    m_Key: drawing_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594183168
+    m_Key: entry-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5431342620426240
+    m_Key: entryAddCoop-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5431278460157952
+    m_Key: entryAddSolo-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435930194952192
+    m_Key: entryKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118545426989056
+    m_Key: fan_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5431663379824640
+    m_Key: flashlightTaken_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432002745155584
+    m_Key: flashlightWorks_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123094300672000
+    m_Key: flashWonder_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9121619348504576
+    m_Key: garagePowerlesslvl1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123954179129344
+    m_Key: garageShelfKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9672375872995328
+    m_Key: gatesOpened_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9120974830780416
+    m_Key: gatesWontOpen_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436920088444928
+    m_Key: hideOnEntrance_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9124048232202240
+    m_Key: homeLightCard_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435931360968704
+    m_Key: injector_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436759069114368
+    m_Key: keySomewhere_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118770493341696
+    m_Key: leverFail_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118936516476928
+    m_Key: leverSuccess_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437010098208768
+    m_Key: lockedCase_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433381194776576
+    m_Key: lockerLocked_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5730642747408384
+    m_Key: lvl1ArmoredShelfKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5731210169630720
+    m_Key: lvl1Basement_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438384919756800
+    m_Key: lvl1CarKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9669584358162432
+    m_Key: lvl1-familyNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5730883819225088
+    m_Key: lvl1Garage_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9669638452101120
+    m_Key: lvl1-helpNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9669768534245376
+    m_Key: lvl1-homeWork_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5731063981359104
+    m_Key: lvl1Jerry_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435725693272064
+    m_Key: lvl1Keycard_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438383997009920
+    m_Key: lvl1Laptop_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9670171950792704
+    m_Key: lvl1-momCopyNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9669814239576064
+    m_Key: lvl1-momNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435866844184576
+    m_Key: lvl1Phone_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9670367350833152
+    m_Key: lvl1-phoneCode_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9670423546118144
+    m_Key: lvl1-policeNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438177125548032
+    m_Key: lvl1Remote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5731284408811520
+    m_Key: lvl1Screwdriver_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5731424796360704
+    m_Key: lvl1Wheel_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9670429665607680
+    m_Key: lvl1-wifi_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8696525904101376
+    m_Key: lvl2_book_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438215205634048
+    m_Key: lvl2Backyard_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437472771883008
+    m_Key: lvl2Bathroom_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437807703834624
+    m_Key: lvl2Book_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437890637807616
+    m_Key: lvl2CD_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438005490434048
+    m_Key: lvl2Gate_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437853455302656
+    m_Key: lvl2Keycard_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437395470860288
+    m_Key: lvl2Storage_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438044057059328
+    m_Key: lvl2StoreRoom_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438326287581184
+    m_Key: lvl2Switcher_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435556927062016
+    m_Key: lvl2Van_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436109782466560
+    m_Key: lvl3DadNote_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435727056420864
+    m_Key: lvl3Exit_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436517196185600
+    m_Key: lvl3RadialSafe_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435900461531136
+    m_Key: lvl3SportCar_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436024419991552
+    m_Key: lvl3Usb_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436067185115136
+    m_Key: lvl3WalkieTalkie_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437412382294016
+    m_Key: lvlTrunk_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432560692445184
+    m_Key: missingLug_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433070279409664
+    m_Key: missingWheel_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675845615173632
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9120089635504128
+    m_Key: noBattery_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432554275160064
+    m_Key: noBreak_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9122680046043136
+    m_Key: noDoorSafeUnlock_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432552123482112
+    m_Key: noFuel_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9121400133206016
+    m_Key: noInjector_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9119209087516672
+    m_Key: noPills_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9119417821249536
+    m_Key: oneToGo_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118448953802752
+    m_Key: onWifiConnect_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9645753245581312
+    m_Key: pills_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433351230668800
+    m_Key: powerless_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9120695431413760
+    m_Key: powerlessGate_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9122174586273792
+    m_Key: powerlessv1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433403181318144
+    m_Key: reader_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9117766905446400
+    m_Key: remoteBattery_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433094602178560
+    m_Key: removeJack_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5436634544422912
+    m_Key: rightKeypad_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5431418478608384
+    m_Key: screwdriver-lvl1-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5431641657524224
+    m_Key: screwdriver-lvl3-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9119876065738752
+    m_Key: shouldWork_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9671847130644480
+    m_Key: shouldWorkV2_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9674654931959808
+    m_Key: trunkKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432555848024064
+    m_Key: try1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432557542522880
+    m_Key: try2_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432559169912832
+    m_Key: try3_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9119207393017856
+    m_Key: turnComputer_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9117612806717440
+    m_Key: twoBatteries_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123843160096768
+    m_Key: unknownCombination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435375712157696
+    m_Key: unknownKeyVar1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5435602590449664
+    m_Key: unknownKeyVar2_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9123117272875008
+    m_Key: unknownKeyVar3_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9121093240176640
+    m_Key: unlockGateFirst_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433314257879040
+    m_Key: useAKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432456170389504
+    m_Key: useAnotherKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5433250349268992
+    m_Key: useCarJack_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432453913853952
+    m_Key: useKey_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5432304898621440
+    m_Key: useKeycard_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9676034522431488
+    m_Key: unknownCombinationV3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9687414306717696
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9690125219610624
+    m_Key: lvl3Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9690801593073664
+    m_Key: ohGodV1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9691403098210304
+    m_Key: lvl3CustomKeypad_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9771408419405824
+    m_Key: fearVar1_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9771425251147776
+    m_Key: fearVar2_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9771440174481408
+    m_Key: fearVar3_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9772432467116032
+    m_Key: fearVar4_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9813330894733312
+    m_Key: hmV2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10728146555584512
+    m_Key: needCarJack_A
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 4026154733126811653
+  m_KeyGenerator:
+    rid: 2405969518517026819
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969518517026819
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690305313295
+    - rid: 4026154733126811653
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 6594183168
+          m_TableCodes:
+          - en
+          - uk
+        - m_KeyId: 5431278460157952
+          m_TableCodes:
+          - en
+          - uk
+        - m_KeyId: 5432552123482112
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432456170389504
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432453913853952
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432304898621440
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432002745155584
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5431663379824640
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436024419991552
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435602590449664
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435375712157696
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433498094223360
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433403181318144
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433070279409664
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432555848024064
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432557542522880
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432559169912832
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436759069114368
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435727056420864
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435725693272064
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433381194776576
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433351230668800
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433314257879040
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433094602178560
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5433250349268992
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435930194952192
+          m_TableCodes:
+          - uk
+        - m_KeyId: 5432554275160064
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5432560692445184
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5437412382294016
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9117612806717440
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9117766905446400
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9118448953802752
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9118545426989056
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9118770493341696
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9118936516476928
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9119207393017856
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9119209087516672
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9119417821249536
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436634544422912
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9119876065738752
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9120695431413760
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9120974830780416
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9121093240176640
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9121400133206016
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9121619348504576
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9122174586273792
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9122680046043136
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123094300672000
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123117272875008
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5731210169630720
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435468435636224
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123732388528128
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438384919756800
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123843160096768
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123938836365312
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5730883819225088
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9123954179129344
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9124048232202240
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9645753245581312
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5730642747408384
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438177125548032
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5731063981359104
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438383997009920
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435824561405952
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5731284408811520
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435866844184576
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435931360968704
+          m_TableCodes:
+          - uk
+        - m_KeyId: 5731424796360704
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9669516808896512
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9669584358162432
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9669638452101120
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9669768534245376
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9669814239576064
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9670171950792704
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9670367350833152
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9670423546118144
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9670429665607680
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9671847130644480
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9672375872995328
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9674654931959808
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9674780148711424
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5437853455302656
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5437890637807616
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438005490434048
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5437395470860288
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438215205634048
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5438326287581184
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 8696525904101376
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9676034522431488
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435556927062016
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5435900461531136
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436067185115136
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436109782466560
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9690125219610624
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9690801593073664
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5436517196185600
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9691403098210304
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9771408419405824
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9771425251147776
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9771440174481408
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9772432467116032
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 9813330894733312
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5437010098208768
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 10728146555584512
+          m_TableCodes:
+          - uk
+          - en
+        - m_KeyId: 5431342620426240
+          m_TableCodes:
+          - en
+          - uk
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

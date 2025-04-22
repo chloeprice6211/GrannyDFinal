@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: itemDescriptionTitles_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: abca6502692db3641aaa9b976c4c3ccc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22163439616
+    m_Localized: 9V BATTERY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138848976896
+    m_Localized: PILLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337189224448
+    m_Localized: CAR KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386640068608
+    m_Localized: KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447264538624
+    m_Localized: KEYCARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486569361408
+    m_Localized: CAR JACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640621953024
+    m_Localized: GARAGE REMOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707772760064
+    m_Localized: JERRY CAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 884831109120
+    m_Localized: LAPTOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 961200996352
+    m_Localized: CRUCIFIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1011402620928
+    m_Localized: SCREWDRIVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061683937280
+    m_Localized: SMARTPHONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1205015887872
+    m_Localized: INJECTOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470653743104
+    m_Localized: USB DRIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595333623808
+    m_Localized: WHEEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1635544416256
+    m_Localized: LUG WRENCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7210492469395456
+    m_Localized: VAN KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213410866118656
+    m_Localized: DAD'S WORK NOTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213508127834112
+    m_Localized: WALKIE TALKIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213741092061184
+    m_Localized: CAR REMOTE KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214077060005888
+    m_Localized: GEAR PART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007889252466688
+    m_Localized: CAR TRUNK KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008163476062208
+    m_Localized: COMPUTER SCIENCE NOTEBOOK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008413351723008
+    m_Localized: CD-RW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008531656261632
+    m_Localized: FRONTYARD KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008636924903424
+    m_Localized: LOCKER KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008938616995840
+    m_Localized: K
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

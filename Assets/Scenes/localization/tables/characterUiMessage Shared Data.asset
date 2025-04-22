@@ -1,0 +1,532 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: characterUiMessage Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: characterUiMessage
+  m_TableCollectionNameGuidString: 14665739ef79d4648899840e2d520eaa
+  m_Entries:
+  - m_Id: 7214940160
+    m_Key: lvl1-phone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65083752448
+    m_Key: lvl1-laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243714965504
+    m_Key: lvl1-remote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328741896192
+    m_Key: lvl1-usb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9927654064128
+    m_Key: lvl1-wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10094646083584
+    m_Key: crucifix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10374255165440
+    m_Key: lvl1-carjack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10481759371264
+    m_Key: flashlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10586566639616
+    m_Key: pillsbottle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10659086155776
+    m_Key: flashlight-taken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10801864458240
+    m_Key: lvl1-armored-shelf-key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11051098390528
+    m_Key: lvl1-garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11098309476352
+    m_Key: lvl1-keycard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11147366055936
+    m_Key: lvl1-carkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11210037346304
+    m_Key: lvl1-basement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11245332414464
+    m_Key: unknown-key-var1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11684056612864
+    m_Key: unknown-key-var2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11786510876672
+    m_Key: injector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891603357696
+    m_Key: battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12664399675392
+    m_Key: entry-key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13260456411136
+    m_Key: lvl1-alertNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13391641657344
+    m_Key: lvl1-policeNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13601402994688
+    m_Key: lvl1-familyNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13713197973504
+    m_Key: lvl1-helpNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13770718658560
+    m_Key: lvl1-momNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13825387216896
+    m_Key: lvl1-homeWork
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13873105813504
+    m_Key: lvl1-phoneCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949224042496
+    m_Key: lvl1-entryNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17179765063680
+    m_Key: lvl2-cd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17272266244096
+    m_Key: lvl2-book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376779911168
+    m_Key: lvl2-remote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17501166190592
+    m_Key: lvl2-swithcer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17769266102272
+    m_Key: lvl2-storeroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17844750991360
+    m_Key: lvl2-gate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17914745536512
+    m_Key: lvl2-trunk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18056357822464
+    m_Key: lvl2-bathroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18128898310144
+    m_Key: lvl2-backyard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18219742740480
+    m_Key: lvl2-keycard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18673008590848
+    m_Key: lvl2-garageCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18823252754432
+    m_Key: lvl2-momNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19609370181632
+    m_Key: lvl2-van
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771507400704
+    m_Key: lvl3-exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28053670150144
+    m_Key: lvl3-sportcar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28095420252160
+    m_Key: lvl3-usb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28702508007424
+    m_Key: lvl3-walkietalkie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28771059712000
+    m_Key: lvl3-dadsnote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28885937504256
+    m_Key: lvl3-foKeyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29093186453504
+    m_Key: lvl3-radialsafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31889919000576
+    m_Key: lvl1-screwdriver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32049495490560
+    m_Key: lvl1-jerrycan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67594443505664
+    m_Key: leverFail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67771107590144
+    m_Key: leverSuccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68252701769728
+    m_Key: notWorking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68918472032256
+    m_Key: remoteBattery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69261389938688
+    m_Key: gatesUnlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69431141810176
+    m_Key: powerlessGate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69535089246208
+    m_Key: gatesSuccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70509228933120
+    m_Key: remoteInsertBattery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70846312562688
+    m_Key: gearInstall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70935923867648
+    m_Key: turnComputer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71203021340672
+    m_Key: powerless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71687819968512
+    m_Key: run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80225489338368
+    m_Key: noDoorSafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80376467505152
+    m_Key: carTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80398407909376
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80423758282752
+    m_Key: noBootPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81236907999232
+    m_Key: gatesUnloc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81348451319808
+    m_Key: gatesWontOpen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81562142720000
+    m_Key: noInjector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81813725462528
+    m_Key: trunkOpen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81983695437824
+    m_Key: fan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82234539982848
+    m_Key: garaageDoorPowerless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82514073567232
+    m_Key: lockerLocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83041637318656
+    m_Key: reader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83256947720192
+    m_Key: useAKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83537357914112
+    m_Key: useCarJack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83745164705792
+    m_Key: missingWheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83918301380608
+    m_Key: missingLug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84132802281472
+    m_Key: removeJack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84230915440640
+    m_Key: noFuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84373760851968
+    m_Key: noBreak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84536394989568
+    m_Key: try1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84579986391040
+    m_Key: try2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84641508442112
+    m_Key: try3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84849986322432
+    m_Key: useAnotherKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85062171967488
+    m_Key: useKeycard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85283182428160
+    m_Key: twoBatteries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85440691126272
+    m_Key: oneToGo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85583754641408
+    m_Key: workProperly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85705523675136
+    m_Key: blockedSwitchers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85974424698880
+    m_Key: flashWonder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88037263097856
+    m_Key: emailApp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88070154829824
+    m_Key: homeLightApp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88091424145408
+    m_Key: wifiApp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89605135876096
+    m_Key: wonder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90650872332288
+    m_Key: rightKeypad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91260363423744
+    m_Key: keySomewhere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91579659010048
+    m_Key: hideOnEntrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91989207629824
+    m_Key: lockedCase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93274090717184
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93313965965312
+    m_Key: lvl1FirstLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93469423648768
+    m_Key: lvl1SoloSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93868062883840
+    m_Key: lvl1CoopSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94354535038976
+    m_Key: lvl2CoopSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94390673162240
+    m_Key: lvl2SoloSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94620651044864
+    m_Key: lvl3SoloSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94655879004160
+    m_Key: level3CoopSecondLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5095055266889728
+    m_Key: flashlightWorking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089311782420480
+    m_Key: flashlightTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089355755503616
+    m_Key: itemDropTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9089376093683712
+    m_Key: inspectTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9090170096402432
+    m_Key: journalTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9090500959879168
+    m_Key: highlightTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9091518862934016
+    m_Key: sprintTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11855658320871424
+    m_Key: garageShelf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12268520294006784
+    m_Key: wifiPickup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12274149167415296
+    m_Key: unknown-key-var3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368779548508160
+    m_Key: fearLineVar1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368805280563200
+    m_Key: fearLineVar2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12368817154637824
+    m_Key: fearLineVar3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12370084732026880
+    m_Key: fearLineVar4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12404342066462720
+    m_Key: batteryV2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12405980911058944
+    m_Key: pills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13084831475515392
+    m_Key: combination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087017282519040
+    m_Key: god
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14399472851959808
+    m_Key: interesting
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2405969354894082081
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969354894082081
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689685961211

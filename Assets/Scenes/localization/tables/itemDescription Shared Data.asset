@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: itemDescription Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: itemDescription
+  m_TableCollectionNameGuidString: 0cd1c1785d443da4d815fa9106312a93
+  m_Entries:
+  - m_Id: 6254444544
+    m_Key: d-battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224953843712
+    m_Key: d-pills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319074025472
+    m_Key: d-carkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360270479360
+    m_Key: d-smallkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 477631299584
+    m_Key: d-homelightcard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723019055104
+    m_Key: d-carjack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 896340279296
+    m_Key: d-armoredshelf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 993379696640
+    m_Key: d-unknownkey-var1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192323923968
+    m_Key: d-remote-lvl1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1327443427328
+    m_Key: d-jerrycan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425493671936
+    m_Key: d-unknownkey-var2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507853025280
+    m_Key: d-entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556100104192
+    m_Key: d-laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1649347870720
+    m_Key: d-basement-lvl1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1701525012480
+    m_Key: d-crucifix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740087443456
+    m_Key: d-screwdriver-lvl1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1822375493632
+    m_Key: d-smartphone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883708801024
+    m_Key: d-inejctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1927514112000
+    m_Key: d-usb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1976100929536
+    m_Key: d-wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031922921472
+    m_Key: d-lugwrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7212862611865600
+    m_Key: d-vankey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7213739976376320
+    m_Key: d-lvl1Locker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214456195727360
+    m_Key: d-rustKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214816087982080
+    m_Key: d-lvl3Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7214981096095744
+    m_Key: d-screwdriver-lvl3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215215704489984
+    m_Key: d-sportcar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215447230070784
+    m_Key: d-spawnKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215699198689280
+    m_Key: d-walkietalkie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7215903968804864
+    m_Key: d-worknote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8006903641358336
+    m_Key: d_CarTrunk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007317484945408
+    m_Key: d_lvl2Bathroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8007538008866816
+    m_Key: csBook_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008085948547072
+    m_Key: lvl2Keycard_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008378400587776
+    m_Key: CD_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008730441105408
+    m_Key: lvl2Frontyard_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009008720592896
+    m_Key: lvl2Storage_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009281258078208
+    m_Key: lvl2Remote_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009594484506624
+    m_Key: lvl2Backyard_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8009954674556928
+    m_Key: lvl2Laptop_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10857295618195456
+    m_Key: d-garageKey_lvl1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11263821776371712
+    m_Key: d-ComputerScienceNoteContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11566163688112128
+    m_Key: d-gear
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2405969354894082086
+  references:
+    version: 2
+    RefIds:
+    - rid: 2405969354894082086
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689693042687
