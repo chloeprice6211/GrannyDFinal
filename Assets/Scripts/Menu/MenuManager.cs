@@ -303,8 +303,8 @@ public class MenuManager : MonoBehaviour
 
                 if (isHost)
                 {
-                    NetworkServer.maxConnections = 2;
-                CustomNetworkManager.Instance.StartHost();
+                    NetworkServer.maxConnections = 3;
+                //CustomNetworkManager.Instance.StartHost();
                     SetupPanel.Instance.SetupServerCoopScreen();
                 }
                 else
